@@ -13,7 +13,7 @@ The R script (appml_r2) has been adapted from existing *Stata* command *appmlhdf
 Stata: \
 Matthew Clance & J.M.C. Santos Silva, 2025. "APPMLHDFE: Stata module to estimate asymmetric Poisson regression with high dimensional fixed effects," Statistical Software Components S459414, Boston College Department of Economics.
 
-Data: \ 
+Data: \
 Bergstrand, Jeffrey; Clance, Matthew; Santos Silva, Joao (2025), “The Tails of Gravity”, Mendeley Data, V1, doi: 10.17632/n67gft8fvm.1
 
 ### What Are Expectile Regressions?
