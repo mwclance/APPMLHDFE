@@ -1,4 +1,4 @@
-# The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements
+# The Tails of Gravity
 
 ## Authors
 - Jeffrey H. Bergstrand
@@ -7,6 +7,15 @@
 
 ## Overview
 This repository introduces and implements **Poisson-based expectile regressions** described in *The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements* called asymmetric Poisson pseudo maximum likelihood (APPML). The estimation is used to analyze heterogeneous effects in international trade but it is also useful in many other applications. 
+
+The R script (appml_r2) has been adapted from existing *Stata* command *appmlhdfe.ado". 
+
+Stata: \
+Matthew Clance & J.M.C. Santos Silva, 2025. "APPMLHDFE: Stata module to estimate asymmetric Poisson regression with high dimensional fixed effects," Statistical Software Components S459414, Boston College Department of Economics.
+
+Data:\ 
+
+Bergstrand, Jeffrey; Clance, Matthew; Santos Silva, Joao (2025), “The Tails of Gravity”, Mendeley Data, V1, doi: 10.17632/n67gft8fvm.1
 
 ### What Are Expectile Regressions?
 Expectile regressions extend the flexibility of traditional regression models by estimating effects across the entire conditional distribution of a dependent variable. Unlike quantile regressions, expectiles are **global measures of location**, providing robust insights into how covariates influence not just the mean but also the tails of the distribution.
