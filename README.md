@@ -8,7 +8,7 @@
 ## Overview
 This repository introduces and implements **Poisson-based expectile regressions** described in *The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements* called asymmetric Poisson pseudo maximum likelihood (APPML). The estimation is used to analyze heterogeneous effects in international trade but it is also useful in many other applications. 
 
-The R script (appml_r2) has been adapted from existing *Stata* command *appmlhdfe.ado". 
+The R script (appml_r2) has been adapted from existing *Stata* command "appmlhdfe.ado". 
 
 Stata: \
 Matthew Clance & J.M.C. Santos Silva, 2025. "APPMLHDFE: Stata module to estimate asymmetric Poisson regression with high dimensional fixed effects," Statistical Software Components S459414, Boston College Department of Economics.
