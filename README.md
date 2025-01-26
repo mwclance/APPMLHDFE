@@ -25,6 +25,6 @@ The **Poisson-based expectile regression** approach combines the advantages of P
 ---
 
 ## Repository Contents
-- **R Scripts**: Implementation of Poisson-based expectile regressions with sample datasets.
+- **R Scripts**: Implementation of Poisson-based expectile regressions with example simulated dataset.
 
 
