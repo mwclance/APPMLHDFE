@@ -34,7 +34,10 @@ The **Poisson-based expectile regression** approach combines the advantages of P
 
 ## Repository Contents
 - **R Scripts**: 
-  - **appml_r2.R**: Function to estimate APPML using the package "fixest" and "feglm" (wrapper). 
+  - **appml_r2.R**: Function to estimate APPML is **essentially** a wrapper program using the `fixest` package's `feglm` function. Note that you can estimate either a single expectile or multiple expectiles. When estimating multiple expectiles, using starting values from sequential (previous) estimates will **speed up** the process.
   - **estimation_r2.R**: Replicates Figure 1 and Table 4 in *"The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements"*.
   - **Sim_Chi2_updated.R**: Replicates the small simulation in *"The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements"*.
-  - **example**: Example of APPML using a simulated dataset.
+  - **example/**: Example of APPML using a simulated dataset.
+
+
+
