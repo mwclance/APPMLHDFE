@@ -1,6 +1,7 @@
 rm(list = ls())
 gc()
 
+
 # Load necessary packages
 library(fixest)
 library(data.table)
