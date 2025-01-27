@@ -6,14 +6,14 @@
 - J.M.C. Santos Silva
 
 ## Overview
-This repository introduces and implements the **Poisson-based expectile regressions** described in *"The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements"*. The estimation is called asymmetric Poisson pseudo maximum likelihood (APPML) estimation and is used analyze heterogeneous effects in international trade but it is also useful in many other applications. 
+This repository introduces and implements the **Poisson-based expectile regressions** described in the article *"The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements"*. The estimation method is called asymmetric Poisson pseudo maximum likelihood (APPML) estimation and is used **to analyze** heterogeneous effects in international trade, but it is also useful in many other applications.
 
-The R script (appml_r2) has been adapted from existing *Stata* command "appmlhdfe.ado". 
+The R script (`appml_r2`) has been adapted from the existing *Stata* command `appmlhdfe.ado`. 
 
-Stata: \
-Matthew Clance & J.M.C. Santos Silva, 2025. "APPMLHDFE: Stata module to estimate asymmetric Poisson regression with high dimensional fixed effects," Statistical Software Components S459414, Boston College Department of Economics.
+**Stata:**  
+Matthew Clance & J.M.C. Santos Silva, 2025. "APPMLHDFE: Stata module to estimate asymmetric Poisson regression with high-dimensional fixed effects," *Statistical Software Components* S459414, Boston College Department of Economics.
 
-Data: \
+**Data:**  
 Bergstrand, Jeffrey; Clance, Matthew; Santos Silva, Joao (2025), “The Tails of Gravity”, Mendeley Data, V1, doi: 10.17632/n67gft8fvm.1
 
 ### What Are Expectile Regressions?
@@ -33,6 +33,4 @@ The **Poisson-based expectile regression** approach combines the advantages of P
 ---
 
 ## Repository Contents
-- **R Scripts**: Implementation of Poisson-based expectile regressions with example simulated dataset.
-
-
+- **R Scripts**: Implementation of Poisson-based expectile regressions with an example simulated dataset.
