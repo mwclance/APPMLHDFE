@@ -1,5 +1,6 @@
 # The Tails of Gravity
-[https://www.surrey.ac.uk/sites/default/files/2025-02/DP01-25.pdf](The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements)
+
+[The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements](https://www.surrey.ac.uk/sites/default/files/2025-02/DP01-25.pdf)
 
 ## Authors
 - Jeffrey H. Bergstrand
