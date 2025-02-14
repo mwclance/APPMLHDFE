@@ -1,3 +1,7 @@
+
+<head>
+<meta name="google-site-verification" content="EzJYapKM-pCnhFPWOoB59ZSu2TeuSjfNA0rkmsIA88o" />
+</head>
 # The Tails of Gravity
 
 [The Tails of Gravity: Using Expectiles to Quantify the Trade-Margins Effects of Economic Integration Agreements](https://www.surrey.ac.uk/sites/default/files/2025-02/DP01-25.pdf)
