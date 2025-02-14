@@ -1,7 +1,7 @@
 
-<head>
+<script>
 google-site-verification: googlef8888d4310f086d2.html
-</head>
+</script>
 
 # The Tails of Gravity
 
