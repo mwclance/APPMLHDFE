@@ -1,6 +1,6 @@
 
 <head>
-<meta name="google-site-verification" content="EzJYapKM-pCnhFPWOoB59ZSu2TeuSjfNA0rkmsIA88o" />
+google-site-verification: googlef8888d4310f086d2.html
 </head>
 
 # The Tails of Gravity
