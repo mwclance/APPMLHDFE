@@ -43,7 +43,9 @@ The **Poisson-based expectile regression** approach combines the advantages of P
   - **example/**: Example of APPML using a simulated dataset.
 
 
-google-site-verification: googlef8888d4310f086d2.html
+<head>
+<meta name="google-site-verification" content="googlef8888d4310f086d2.html" />
+</head>
 
 
 
